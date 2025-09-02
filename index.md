@@ -8,27 +8,21 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-### Las Vegas, NV
+### _Samriddha Mishra's First CS193 homework_
 
 
-```markdown
-Syntax highlighted code block
+### Favorite things
 
-# Header 1
-## Header 2
-### Header 3
-#### Hello
+- **Teaching** me how to use CS Tools formally
+- **Supplementing** my CS education throughout college
+- **Building** a foundation for a career in Computer Science
+- **Creating** chances to have more individual projects
+- **Making** programming more efficient and fun in general
 
-- Bulleted
-- List
+'Thank you!!'
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
